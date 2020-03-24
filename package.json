@@ -1,0 +1,21 @@
+{
+  "name": "html-compo-documentation",
+  "version": "1.0.0",
+  "description": "Documentation of html-compo",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html-compo",
+    "html-compo-documentation",
+    "webcomponents",
+    "html"
+  ],
+  "author": "Sarthak Pokharel",
+  "license": "MIT",
+  "dependencies": {
+    "html-compo": "^2.8.2"
+  }
+}

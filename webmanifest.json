@@ -1,0 +1,16 @@
+{
+    "name": "HTML-COMPO.js",
+    "short_name" : "HTMLcompo",
+    "start_url": "index.html",
+    "scope" : "./",
+    "icons": [
+        {
+            "src": "./icons/Sarthak_200x200.png",
+            "sizes": "200x200",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#2196f3",
+    "background_color": "#2196f3",
+    "display": "standalone"
+}
